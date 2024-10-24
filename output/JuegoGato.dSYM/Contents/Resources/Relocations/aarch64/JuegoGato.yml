@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/michell/7mo_semestre/POO-II/JuegoGato/output/JuegoGato'
+relocations:     []
+...
